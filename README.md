@@ -1,5 +1,5 @@
 # BOOKING VEHICLE INSPECTION STATION
-##**PROVINCE**
+**PROVINCE**
 
 Province Get: http://localhost:8080/province/list
 
