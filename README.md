@@ -1,9 +1,10 @@
 # BOOKING VEHICLE INSPECTION STATION
-##**PROVINCE**
+**PROVINCE**
 
 Province Get: http://localhost:8080/province/list
 
 Province Post: http://localhost:8080/province/province
+
 {
   "id": 0,
   "name":"İstanbul"
@@ -12,10 +13,13 @@ Province Post: http://localhost:8080/province/province
 Province Delete: http://localhost:8080/province/{id}
 
 Province Put: http://localhost:8080/province/province
-##**DISTRICT**
+
+**DISTRICT**
+
 District Get: http://localhost:8080/district/list
 
 District Post: http://localhost:8080/district/district
+
 {
   "id": 0,
   "name":"Kadıköy",
@@ -25,10 +29,13 @@ District Post: http://localhost:8080/district/district
 District Delete: http://localhost:8080/district/{id}
 
 District Put: http://localhost:8080/district/district
-##**INSPECTION STATION**
+
+**INSPECTION STATION**
+
 Inspection Station Get: http://localhost:8080/inspection/list
 
 Inspection Station Post: http://localhost:8080/inspection/inspection
+
 {
   "id": 0,
   "name":"Çetinkaya A.Ş",
@@ -39,10 +46,13 @@ Inspection Station Post: http://localhost:8080/inspection/inspection
 Inspection Station Delete: http://localhost:8080/inspection/{id}
 
 Inspection Station Put: http://localhost:8080/inspection/inspection
-##**CUSTOMER**
+
+**CUSTOMER**
+
 Customer Get: http://localhost:8080/customer/list
 
 Customer Post: http://localhost:8080/customer/customer
+
 {
   "id": 0,
   "firstName":"Ahmet",
@@ -53,10 +63,13 @@ Customer Post: http://localhost:8080/customer/customer
 Customer Delete: http://localhost:8080/customer/{id}
 
 Customer Put: http://localhost:8080/customer/customer
-##**REGISTER**
+
+**REGISTER**
+
 Register Get: http://localhost:8080/register/list
 
 Register Post: http://localhost:8080/register/register
+
 {
   "id": 0,
   "createDate":"2020-06-17T12:57:54",
@@ -66,10 +79,13 @@ Register Post: http://localhost:8080/register/register
 Register Delete: http://localhost:8080/register/{id}
 
 Register Put: http://localhost:8080/register/register
-##**RESERVATION**
+
+**RESERVATION**
+
 Reservation Get: http://localhost:8080/reservation/list
 
 Reservation Post: http://localhost:8080/reservation/reservation
+
 {
   "id": 0,
   "licenseOwner":"Sefa",
