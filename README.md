@@ -1,7 +1,6 @@
 # BOOKING VEHICLE INSPECTION STATION
-######################
 ##**PROVINCE**
-######################
+
 Province Get: http://localhost:8080/province/list
 
 Province Post: http://localhost:8080/province/province
@@ -13,9 +12,7 @@ Province Post: http://localhost:8080/province/province
 Province Delete: http://localhost:8080/province/{id}
 
 Province Put: http://localhost:8080/province/province
-######################
 ##**DISTRICT**
-######################
 District Get: http://localhost:8080/district/list
 
 District Post: http://localhost:8080/district/district
@@ -28,9 +25,7 @@ District Post: http://localhost:8080/district/district
 District Delete: http://localhost:8080/district/{id}
 
 District Put: http://localhost:8080/district/district
-######################
 ##**INSPECTION STATION**
-######################
 Inspection Station Get: http://localhost:8080/inspection/list
 
 Inspection Station Post: http://localhost:8080/inspection/inspection
@@ -44,9 +39,7 @@ Inspection Station Post: http://localhost:8080/inspection/inspection
 Inspection Station Delete: http://localhost:8080/inspection/{id}
 
 Inspection Station Put: http://localhost:8080/inspection/inspection
-######################
 ##**CUSTOMER**
-######################
 Customer Get: http://localhost:8080/customer/list
 
 Customer Post: http://localhost:8080/customer/customer
@@ -60,9 +53,7 @@ Customer Post: http://localhost:8080/customer/customer
 Customer Delete: http://localhost:8080/customer/{id}
 
 Customer Put: http://localhost:8080/customer/customer
-######################
 ##**REGISTER**
-######################
 Register Get: http://localhost:8080/register/list
 
 Register Post: http://localhost:8080/register/register
@@ -75,9 +66,7 @@ Register Post: http://localhost:8080/register/register
 Register Delete: http://localhost:8080/register/{id}
 
 Register Put: http://localhost:8080/register/register
-######################
 ##**RESERVATION**
-######################
 Reservation Get: http://localhost:8080/reservation/list
 
 Reservation Post: http://localhost:8080/reservation/reservation
